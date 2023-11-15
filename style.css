@@ -101,11 +101,16 @@ nav button{
 .search-button{
     display: flex;
     align-items: center;
+    
 }
 .search-button button{
     padding: 0 10px;
-    height: 40px;
+    height: 42px;
+    width: 152px;
+
+
 }
+
 .box{
    font-size: 15px;
     font-weight: 600;
